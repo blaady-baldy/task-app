@@ -1,3 +1,3 @@
 # task-app
 
-Project hoster on - https://tasks-won.herokuapp.com/
+Project hosted on - https://tasks-won.herokuapp.com/
